@@ -1,0 +1,20 @@
+/* gradient source: https://uigradients.com/#Wiretap */
+/* decreased transparency to 80% */
+.highlight {
+    background-image: linear-gradient(to right, #F27121cc, #E94057cc, #8A2387cc);
+    border-radius: 6px;
+    padding: 3px 6px;
+  }
+  
+  body {
+    background-color: #110e17;
+  }
+  
+  p {
+    color: #fff;
+    text-align: center;
+    font-family: sans-serif;
+    letter-spacing: 2px;
+    padding: 20px 0;
+    font-size: 2em;
+  }
